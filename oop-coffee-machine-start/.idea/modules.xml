@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CoffeeMachine/.idea/CoffeeMachine.iml" filepath="$PROJECT_DIR$/../CoffeeMachine/.idea/CoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day16Start/.idea/day16Start.iml" filepath="$PROJECT_DIR$/../day16Start/.idea/day16Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" filepath="$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" filepath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" />
+    </modules>
+  </component>
+</project>
